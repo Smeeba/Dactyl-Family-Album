@@ -54,7 +54,7 @@ Created By: [abstracthat](https://github.com/abstracthat)
 
 [Link](https://github.com/abstracthat/dactyl-manuform)
 
-[Addendum](./Addendum.md#Dactyl Manuform)
+[Addendum](./Addendum.md#Dactyl_Manuform)
 
 #### Keys 
 
