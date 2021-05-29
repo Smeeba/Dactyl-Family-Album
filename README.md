@@ -10,7 +10,7 @@ Created By: adereth
 
 [Link](https://github.com/adereth/dactyl-keyboard)
 
-[Addendum](link to addendum section here if one exists, else remove)
+[Addendum](./Addendum.md#Dactyl)
 
 #### Keys 
 
