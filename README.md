@@ -4,6 +4,32 @@ Welcome to the Dactyl Family Album! This repository was made to serve as a place
 
 # Keyboards
 
+## Dactyl
+
+Created By: adereth
+
+[Link](https://github.com/adereth/dactyl-keyboard)
+
+[Addendum](link to addendum section here if one exists, else remove)
+
+#### Keys 
+
+Columns: 0 - 6
+
+Rows: # 0 - 5
+
+Thumb keys: 6
+
+#### Build
+
+Has been built before: Yes
+
+<img src="./Pics/Dactyl.png" width="60%">
+
+####  Innovation
+
+Its the grandpappy of the whole thing, it doesn't need an introduction
+
 ## Dactyl Manuform
 
 Created By: [abstracthat](https://github.com/abstracthat)  

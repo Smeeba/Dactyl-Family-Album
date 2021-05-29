@@ -2,6 +2,28 @@
 
 Welcome to the addendum file of the Dactyl Family Album. Here you can dive more into some of the projects that aren't specifically featured in the main file. This is due to the projects noteworthy innovations to how they are designed but more feature other elements such as new features, more parameters or, quality of life improvements, or other noteworthy changes.  
 
+# Dactyl
+
+## Dactyl CC
+
+Created By: mjohns 
+
+[Link](https://github.com/mjohns/dactyl-cc)
+
+#### Description
+
+A reimplementation of the project in C++ instead of Clojure. Small changes the project were also made to bring the whole thing closer in feel to the Kinesis Advantage 2.
+
+## Dactyl CC Mini
+
+Created By: mjohns 
+
+[Link](https://github.com/mjohns/dactyl-cc-mini)
+
+#### Description
+
+A fork of the previously mentioned Dactyl CC project that shrinks down the keyboard, bringing it down from a 6x4 to a 5x3, removing a thumb key along side smaller alterations.  
+
 # Dactyl Manuform
 
 ## Carbonfet's Fork
