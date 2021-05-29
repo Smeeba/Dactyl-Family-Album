@@ -24,6 +24,8 @@ Created By: mjohns
 
 A fork of the previously mentioned Dactyl CC project that shrinks down the keyboard, bringing it down from a 6x4 to a 5x3, removing a thumb key along side smaller alterations.  
 
+
+
 # Dactyl Manuform
 
 ## Carbonfet's Fork
@@ -54,3 +56,18 @@ Created By: joshreve
 #### Description
 
 This fork completely rewrites the project in Python instead of Clojure. Additionally, the keyboard model is now outputted as a STEP files as opposed to a OpenSCAD file. 
+
+
+
+# DMOTE
+
+## The Concertina
+
+Created By: veikman
+
+[[Link](https://github.com/veikman/dactyl-keyboard)](link here)
+
+#### Description
+
+This project aims to take the DMOTE design and make it more ergonomic by rotating it and making it vertical in addition to increasing the number of keys in the thumb cluster. Included in the project are designs for a sort of drawer cabinet in which the builder uses the two halves of the Concertina as two walls on the bookend of the cabinet. 
+
