@@ -10,7 +10,7 @@ Created By: [abstracthat](https://github.com/abstracthat)
 
 [Link](https://github.com/abstracthat/dactyl-manuform)
 
-[Addendum](./Addendum.md#Dactyl Manuform)
+[Addendum](./Addendum.md#Dactyl_Manuform)
 
 #### Keys 
 
@@ -24,7 +24,7 @@ Thumb keys: 6
 
 Has been built before: Yes
 
-![Pic of build or model here](.\Pics\DactylManuform.jpg)
+<img src="./Pics/DactylManuform.jpg" width="60%">
 
 #### Innovation
 
