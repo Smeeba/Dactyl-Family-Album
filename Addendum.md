@@ -65,7 +65,7 @@ This fork completely rewrites the project in Python instead of Clojure. Addition
 
 Created By: veikman
 
-[[Link](https://github.com/veikman/dactyl-keyboard)](link here)
+[Link](https://github.com/veikman/dactyl-keyboard)
 
 #### Description
 
