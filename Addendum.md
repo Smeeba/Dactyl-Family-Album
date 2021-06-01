@@ -22,7 +22,29 @@ Created By: mjohns
 
 #### Description
 
-A fork of the previously mentioned Dactyl CC project that shrinks down the keyboard, bringing it down from a 6x4 to a 5x3, removing a thumb key along side smaller alterations.  
+A fork of the previously mentioned Dactyl CC project that shrinks down the keyboard, bringing it down from a 6x4 to a 5x3, removing a thumb key along 
+
+side smaller alterations.  
+
+## kennykaye's Fork
+
+Created By: Kennykaye
+
+[Link](https://github.com/kennykaye/dactyl-keyboard)
+
+#### Description
+
+This fork implements a really interested new [wrist rest](https://mobile.twitter.com/_kennykaye/status/858807986680090624?lang=en) that is 3d printed alongside the board and doesn't require any wrist rest to be attached. 
+
+## crystalhand's Fork
+
+Created By: crystalhand
+
+[Link](https://github.com/crystalhand/dactyl-keyboard)
+
+#### Description
+
+This fork generates a wrist rest mount for commercially available wrist rests to be placed into. This fork with the wrist rest is the version commonly seen being sold as kits/prebuilts.
 
 
 
